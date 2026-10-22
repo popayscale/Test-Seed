@@ -1,0 +1,17 @@
+[
+  {"q": "En quelle année est sorti le remaster HD de Final Fantasy VIII ? (pas le remastered)", "a": "2019", "w": ["2015", "2017", "2021"]},
+  {"q": "Quel créateur de la série était producteur du jeu ?", "a": "Hironobu Sakaguchi", "w": ["Tetsuya Nomura", "Nobuo Uematsu", "Kazushige Nojima"]},
+  {"q": "Qui est le scénariste principal du jeu ?", "a": "Kazushige Nojima", "w": ["Yoshinori Kitase", "Hiroyuki Ito", "Tetsuya Nomura"]},
+  {"q": "Qui a dessiné les personnages du jeu ?", "a": "Tetsuya Nomura", "w": ["Yoshitaka Amano", "Kazushige Nojima", "Nobuo Uematsu"]},
+  {"q": "Qui a conçu le système de combat basé sur les G-Forces ?", "a": "Hiroyuki Ito", "w": ["Yoshinori Kitase", "Hironobu Sakaguchi", "Akihiko Yoshida"]},
+  {"q": "Quel autre jeu Square était développé en parallèle de FFVIII ?", "a": "Parasite Eve", "w": ["Xenogears", "Chrono Cross", "Vagrant Story"]},
+  {"q": "Qui a dessiné le logo du jeu (un couple enlacé) ?", "a": "Yoshinori Kitase", "w": ["Tetsuya Nomura", "Yoshitaka Amano", "Hiroyuki Ito"]},
+  {"q": "Quel personnage était pressenti pour former le couple avec Squall au départ ?", "a": "Quistis Trepe", "w": ["Selphie Tilmitt", "Edea Kramer", "Ellone Loire"]},
+  {"q": "Quelle chanteuse interprète « Eyes On Me » ?", "a": "Faye Wong", "w": ["Hikaru Utada", "Björk", "Celine Dion"]},
+  {"q": "Quel est l'âge de CID Kramer?", "a": "40 Ans", "w": ["Personne ne le sait sauf Edea peut-être...", "34 Ans", "52 Ans"]},
+  {"q": "Quel objet en français permet d'apprendre la capacité Canibale ?", "a": "Regime", "w": ["Molaire", "Zoologie", "Chocolégume"]},
+  {"q": "Au disque 4 à quel endroit retrouver Ishtar la reine des cartes ?", "a": "Au pod de secours, situé à la pointe sud d'Esthar", "w": ["A Dollet sur la plage", "A balamb city", "A Winhill"]},
+  {"q": "Que fait Nosferatu lorsque on lui vole et lance Quart directement?", "a": "Il envoie Soin Max sur un personnage", "w": ["Il tue immediatement le personnage", "Il envoie Quart deux fois de suite", "Il retire les 3/4 des pvs à toute l'équipe"]},
+  {"q": "Quel évennement a donné envie à Seifer de manier la gunblade et de devenir chevalier?", "a": "Un film qu'il a vu enfant (où laguna est acteur principal)", "w": ["A l'orphelinat en se battant contre des monstres équipé d'épées", "ll l'a lu dans des livres sur Hyne étant enfant", "Aucun il a juste un ego surdimentionné"]},
+  {"q": "Qui est le sage Vascaroon?", "a": "Le conseiller du roi Zebalga", "w": ["Un mage ancien qui a créer la para-magie", "Le créateur du triple triad", "Un Héro d'un autre jeu"]}
+]
